@@ -13,8 +13,8 @@ This activity involved using an incomplete dataset of Titanic passengers to simu
 ### Results
 - Average people:2199.2
 - Average deaths:1429.6
-- Average survivors 769.6
-- Average survival rate 0.350
+- Average survivors: 769.6
+- Average survival rate: 0.350
 - 95% Confidence interval for survivors: (680.274, 858.926)
 - 95% Confidence interval for deaths: (1271.966, 1587.234)
 - 95% Confidence interval for survival rates: (0.347, 0.352)
